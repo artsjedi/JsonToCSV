@@ -1,0 +1,7 @@
+{
+  "name": "csv-to-json",
+  "version": "converts a json to a csv",
+  "dependencies": {
+    "papaparse": "^4.6.0"
+  }
+}
