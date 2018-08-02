@@ -1,5 +1,5 @@
 {
-  "name": "csv-to-json",
+  "name": "json-to-csv",
   "version": "converts a json to a csv",
   "dependencies": {
     "papaparse": "^4.6.0"
